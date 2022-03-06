@@ -11,10 +11,10 @@
 
   <div align="center">
   <a href="https://discord.com/users/526877994019586060" target="_blank">
-  <img src="https://lanyard-profile-readme.vercel.app/api/281492584176549891?bg=111111"> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/526877994019586060?bg=111111"> 
    <div align="center">
      <a href="https://github.com/ziloooo/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=wezah&hide_border=true&background=111111&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ziloooo&hide_border=true&background=111111&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a>
   </a> 
   </a> 
