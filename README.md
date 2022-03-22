@@ -39,9 +39,6 @@
      <img align="center" alt="Github" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      <img align="center" alt="NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
- 
-     <h4 align="center">Copyright ©️ 2022, <a href="https://github.com/Ziloooo">Ziloooo</a> (Do not edit the line, keep the original author of this readme)</h4>
-
  </div>
  
 
