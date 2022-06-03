@@ -23,7 +23,7 @@
   </div>
   <div align="left">
       <h3> Langages </h3>
-    <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="55" width="55" src="https://skillicons.dev/icons?i=js&theme=light">
     <img align="center" alt="HTML" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
