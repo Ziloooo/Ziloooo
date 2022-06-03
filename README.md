@@ -29,7 +29,7 @@
   </div>
    <div align="left">
          <h3> Code editor </h3> 
-     <img align="center" alt="VSCode" height="55" width="55" src="https://skillicons.dev/icons?i=vscode&theme=light">
+     <img align="center" alt="VSCode" height="55" width="55" src="https://skillicons.dev/icons?i=vscode&theme=dark">
      <img align="center" alt="Web Storm" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png">
      <img align="center"alt="Intellij IDEA"height="55"width="55"src="https://skillicons.dev/icons?i=idea&theme=light">
  </div>
