@@ -22,24 +22,28 @@
   </p>
   </div>
   <div align="left">
-    <h3> 🌍 Langages </h3>
+    <h3> 🌍 Langages :</h3>
     <img align="center" alt="JavaScript" height="55" width="55" src="https://skillicons.dev/icons?i=js&theme=dark">
     <img align="center" alt="HTML" height="55" width="55" src="https://skillicons.dev/icons?i=html&theme=dark">
     <img align="center" alt="CSS" height="55" width="55" src="https://skillicons.dev/icons?i=css&theme=dark">
   </div>
    <div align="left">
-    <h3> 🖥️ Code editor </h3>
+    <h3> 🖥️ Code editor :</h3>
      <img align="center" alt="VSCode" height="55" width="55" src="https://skillicons.dev/icons?i=vscode&theme=dark">
      <img align="center" alt="Web Storm" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png">
      <img align="center"alt="Intellij IDEA"height="55"width="55"src="https://skillicons.dev/icons?i=idea&theme=dark">
  </div>
    <div align="left">
-    <h3>🛠️ Utils </h3> 
+    <h3>🛠️ Utils :</h3> 
      <img align="center" alt="Npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
      <img align="center" alt="Github" height="45" width="45" src="https://skillicons.dev/icons?i=github&theme=dark" />
       <img align="center" alt="Git" height="45" width="45" src="https://skillicons.dev/icons?i=git&theme=dark" />
      <img align="center" alt="NodeJS" height="55" width="55" src="https://skillicons.dev/icons?i=nodejs&theme=dark">
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
+ </div>
+<div align="left">
+    <h3> 🎶 Music :</h3> 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zx6j7879mhcmqlc4m8j2qr2kc&cover_image=true&theme=default" /></div>   
  </div>
  
 
