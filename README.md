@@ -41,11 +41,3 @@
      <img align="center" alt="NodeJS" height="55" width="55" src="https://skillicons.dev/icons?i=nodejs&theme=dark">
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
  </div>
-<div align="left">
-    <h3> 🎶 Music :</h3> 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6kysx2dj4u400aghp5uda7hjx&cover_image=true&theme=default" /></div>   
- </div>
- 
-
-
-  
