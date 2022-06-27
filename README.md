@@ -43,7 +43,7 @@
  </div>
 <div align="left">
     <h3> 🎶 Music :</h3> 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zx6j7879mhcmqlc4m8j2qr2kc&cover_image=true&theme=default" /></div>   
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6kysx2dj4u400aghp5uda7hjx&cover_image=true&theme=default" /></div>   
  </div>
  
 
