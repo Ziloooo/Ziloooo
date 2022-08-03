@@ -41,3 +41,5 @@
      <img align="center" alt="NodeJS" height="55" width="55" src="https://skillicons.dev/icons?i=nodejs&theme=dark">
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
  </div>
+
+<img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake">
