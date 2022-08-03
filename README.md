@@ -42,4 +42,4 @@
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
  </div>
 
-<img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://github.com/Ziloooo/Ziloooo/blob/output/github-contribution-grid-snake.svg" alt="snake">
