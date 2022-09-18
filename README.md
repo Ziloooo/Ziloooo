@@ -1,4 +1,4 @@
-<h1 align="center"> 🦅 Hello everyone, I'm Zilooo !</h1>
+<h1 align="center"> 🦅 Hello, I'm Zilooo !</h1>
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
