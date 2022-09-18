@@ -26,6 +26,9 @@
     <img align="center" alt="JavaScript" height="55" width="55" src="https://skillicons.dev/icons?i=js&theme=dark">
     <img align="center" alt="HTML" height="55" width="55" src="https://skillicons.dev/icons?i=html&theme=dark">
     <img align="center" alt="CSS" height="55" width="55" src="https://skillicons.dev/icons?i=css&theme=dark">
+    <img align="center" alt="GO" height="55" width="55" src="https://skillicons.dev/icons?i=go&theme=dark">
+    <img align="center" alt="Pug" height="55" width="55" src="https://skillicons.dev/icons?i=pug&theme=dark">
+
   </div>
    <div align="left">
     <h3> 🖥️ Code editor :</h3>
