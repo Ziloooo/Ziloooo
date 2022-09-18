@@ -38,11 +38,11 @@
  </div>
    <div align="left">
     <h3> 🛠️ Utils :</h3> 
-     <img align="center" alt="Npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+     <img align="center" alt="NPM" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
      <img align="center" alt="Github" height="45" width="45" src="https://skillicons.dev/icons?i=github&theme=dark" />
       <img align="center" alt="Git" height="45" width="45" src="https://skillicons.dev/icons?i=git&theme=dark" />
      <img align="center" alt="NodeJS" height="55" width="55" src="https://skillicons.dev/icons?i=nodejs&theme=dark">
-     <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
+     <img align="center" alt="Filezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"> 
  </div>
 
 <img src="https://github.com/Ziloooo/Ziloooo/blob/output/github-contribution-grid-snake.svg" alt="snake">
